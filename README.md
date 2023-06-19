@@ -3,3 +3,6 @@ I have developed a Project that can Predict The Multan Estate Prices Using Diffe
 
 # Author
 @adnanakhter11
+
+# License
+This Project is licensed under the MIT License. 
